@@ -1,5 +1,5 @@
 const CONFIG = {
-    titleWeb: "QUÀ GIÁNG SINH",
+    titleWeb: "Tiêu đề web",
     introTitle: 'Nguyễn Thị Thúy Kiều(●'◡'●)',
     introDesc: `Trái đất vốn lạ thường.
     Mà sao em cứ đi nhầm đường.
@@ -15,6 +15,6 @@ const CONFIG = {
     reply: 'Yêu thì yêu mà không yêu thì yêu <3333',
     mess: 'Anh cũng không biết nữa😅😅😅',
     messDesc: 'Tối nay nhớ live tiktok 11h nha!.',
-    btnAccept: 'Okiiiii lun <3',
+    btnAccept: 'Okiiiii nhoooớ 🤞🤞🤞',
     messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
