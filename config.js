@@ -1,6 +1,6 @@
 const CONFIG = {
     titleWeb: "Thúy kiều xinh gái",
-    introTitle: 'Thúy Kiều 9 tủi (●'◡'●)',
+    introTitle: 'Thúy Kiều 9 tủi ',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
